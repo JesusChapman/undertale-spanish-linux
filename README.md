@@ -36,7 +36,7 @@ Si encuentras un problema con el archivo pkg o appimage puedes abrir el reporte 
 
 ## Créditos
 
-- [undertale-spanish](www.undertale-spanish.com)
+- [undertale-spanish](https://www.undertale-spanish.com)
 
 ## TO-DO
 - Crear un script que detecte el directorio del juego y haga la instalación de manera automática.
