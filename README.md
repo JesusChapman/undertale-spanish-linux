@@ -1,5 +1,7 @@
 # undertale-spanish-linux
 
+![preview](https://github.com/JesusChapman/undertale-spanish-linux/blob/main/preview.png)
+
 # ADVERTENCIA ⚠️
 Este repositorio NO está afiliado a tobyfox ni el juego UNDERTALE, es solo una modificación echa por un random de internet y la está compartiendo.
 
@@ -28,9 +30,9 @@ de paquetes pacman ej: archlinux, manjaro, artix, cachyOS, garuda, etc...)
 Si encuentras un problema con el archivo pkg o appimage puedes abrir el reporte en [issues](https://github.com/JesusChapman/undertale-spanish-linux/issues).
 
 ### Apoyo
-**Bitcoin**`3GJP4c1Q5xFfsa9bizFk6GeeThSC92B13h`
-**Ethereum**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
-**USDC**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
+- **Bitcoin**`3GJP4c1Q5xFfsa9bizFk6GeeThSC92B13h`
+- **Ethereum**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
+- **USDC**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
 
 ## Créditos
 
