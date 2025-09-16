@@ -29,11 +29,6 @@ de paquetes pacman ej: archlinux, manjaro, artix, cachyOS, garuda, etc...)
 
 Si encuentras un problema con el archivo pkg o appimage puedes abrir el reporte en [issues](https://github.com/JesusChapman/undertale-spanish-linux/issues).
 
-### Apoyo
-- **Bitcoin**`3GJP4c1Q5xFfsa9bizFk6GeeThSC92B13h`
-- **Ethereum**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
-- **USDC**`0x4048138a6d1Be0F812A167B8CE701bB62fC54C9D`
-
 ## Créditos
 
 - [undertale-spanish](https://www.undertale-spanish.com)
